@@ -12,7 +12,7 @@
 
 <h3 align='center'>wolf.link</h3>
 <p align='center'>
-  The Base Link CLI and REPL Framework
+  The BaseLink CLI and REPL Framework
 </p>
 
 <br/>
