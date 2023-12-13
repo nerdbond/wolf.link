@@ -12,7 +12,7 @@
 
 <h3 align='center'>wolf.note</h3>
 <p align='center'>
-  The BaseLink File Manipulation Library
+  The BaseNote File Manipulation Library
 </p>
 
 <br/>
