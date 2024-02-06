@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/wolf.note/blob/make/view/wolf.svg?raw=true' height='312'>
+  <img src='https://github.com/termsurf/wolf.leaf/blob/make/view/wolf.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>wolf.note</h3>
+<h3 align='center'>wolf.leaf</h3>
 <p align='center'>
-  The BaseNote Runtime Library
+  The SeedLeaf Runtime Library
 </p>
 
 <br/>
