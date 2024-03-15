@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/wolf.leaf/blob/make/view/wolf.svg?raw=true' height='312'>
+  <img src='https://github.com/termsurf/wolf.star/blob/make/view/wolf.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>wolf.leaf</h3>
+<h3 align='center'>wolf.star</h3>
 <p align='center'>
-  The SeedLeaf Runtime Library
+  The Star Runtime Library
 </p>
 
 <br/>
