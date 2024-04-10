@@ -7,10 +7,10 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/wolf.star/blob/make/view/wolf.svg?raw=true' height='312'>
+  <img src='https://github.com/termsurf/wolf.tree/blob/make/view/wolf.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>wolf.star</h3>
+<h3 align='center'>wolf.tree</h3>
 <p align='center'>
   The Star Runtime Library
 </p>
